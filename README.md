@@ -1,8 +1,8 @@
 ### Olá! Me chamo Gustavo Goulart 👋
 
--  🧑🏻‍💻 Trainee de TI na AlmavivA Solutions | Magna Sistemas 💙
+-  🧑🏻‍💻 Trainee de TI na AlmavivA Solutions | Magna Sistemas
 -  🎓 Formado em Análise e Desenvolvimento de Sistemas.
--  💻 Me desenvolvendo como Desenvolvedor FullStack
+-  💻 Desenvolvedor FullStack
 
 ##
 <div>
